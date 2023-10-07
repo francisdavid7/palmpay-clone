@@ -340,7 +340,7 @@
 
     .payment-intro {
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
     }
 
     .pay-intro-text {
@@ -353,7 +353,7 @@
     }
 
     .get-more .get-more-text {
-        text-align: center;
+        text-align: flex-start;
     }
 
     .footer .quicklinks:first-child {
