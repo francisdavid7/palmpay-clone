@@ -63,7 +63,7 @@
     
 
     .customer-review {
-        width: 110%;
+        width: 105%;
         padding: 3rem 6rem;
     }
 
@@ -474,6 +474,10 @@
 
     .customer-review .ratings .rect-box {
         padding: 1.2rem 1.5rem;
+    }
+
+    .web-page-wrapper {
+        overflow: hidden;
     }
 
 }
